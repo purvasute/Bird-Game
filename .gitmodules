@@ -1,0 +1,3 @@
+[submodule "Bird-Game"]
+	path = Bird-Game
+	url = https://github.com/purvasute/Bird-Game.git
